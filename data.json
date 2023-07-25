@@ -1,0 +1,18 @@
+[
+    {"id": 1, "nombre": "Set Tintas Eternal","onzas": "1oz", "cantidad": 1, "desc": "25 Colores Premium", "precio": 180000, "tipo":"Tintas", "img": "./imag/tintas.jpg"},
+    {"id": 2, "nombre": "Set Tintas Solid",  "onzas": "1oz", "cantidad": 1, "desc": "Contiene 12 tintas de 1 oz + 1 mixer.", "precio": 98000, "tipo":"Tintas", "img": "./imag/Solid.jpg"},
+    {"id": 3, "nombre": "Set Tintas World",  "onzas": "1oz", "cantidad": 1, "desc": "Contiene Tonos que incluye:Extreme Black, Black,Dark,Light, Extra Light,Mix.", "precio": 49000, "tipo":"Tintas", "img": "./imag/World.png"},
+    {"id": 4, "nombre": "Set Dynamic",       "onzas": "1oz", "cantidad": 1, "desc": "El set incluye: Burgundy Red, Chinese Red, Fire Red, Green, Blue, Orange, White, Canary Yellow, Brown, Magenta, Violet, and Black", "precio": 80000, "tipo":"Tintas", "img": "./imag/Dynamic.png"},
+    {"id": 6, "nombre": "Fk Irons | Flux Rotary Tattoo Machine with 2 PowerBolt – Stealth", "cantidad": 1, "desc": "Manejo directo de 4 mm, Diseño liviano, Gestión dinámica de la ruta de energía, Indicador LED, Bluetooth y cambiar el voltaje, Desmontable", "precio": 350000, "tipo":"Maquina", "img": "./imag/penmachine.png"},
+    {"id": 5, "nombre": "Maquina Pen CTG01", "cantidad": 1, "desc": "Velocidad: Máx 10000 RPM, Entrada: Máx 12V,Carrera: 3.5MM,Motor: 4.5W potente motor,Cuerpo: Aluminio,Longitud HP: 120 mm,Aguja: Cartucho", "precio": 90000, "tipo":"Maquina", "img": "./imag/PenCTG01.jpg"},
+    {"id": 7, "nombre": "Cartridge Kwadron – RLLT", "cantidad": 1, "desc": "Caja de 20 unidades de cartuchos de membrana.", "precio":21000 , "tipo":"Agujas", "img": "./imag/Kwadron.png"},
+    {"id": 8, "nombre": "Cartridge Elite lll Magnum Curva (MC)","cantidad": 1, "desc": "Caja de 20 cartuchos", "precio":15000, "tipo":"Agujas", "img": "./imag/BPMC.jpg"},
+    {"id": 9, "nombre": "Cartridge Safety Cheyenne Shader (S)", "cantidad": 1, "desc": "Caja de 10 unidades", "precio":23000 , "tipo":"Agujas", "img": "./imag/safety.jpg"},
+    {"id": 10,"nombre": "Papel Transfer Spirit Freehand",       "cantidad": 1, "desc": "Es una herramienta imprescindible para los artistas que necesitan la seguridad de lo que ofrece un papel de Spirit, pero también desean la libertad de trazar y diseñar plantillas a mano.", "precio": 2000 , "tipo":"accesorio", "img": "./imag/papel.jpg"},
+    {"id": 11,"nombre" : "Piel Sintetica 20×30 cm grosor 3mm",  "cantidad": 1, "desc": "El grosor de estas almohadillas de silicona es de 3 mm, ambos lados de cada hoja están en blanco.", "precio": 3500 , "tipo":"accesorio", "img": "./imag/piel.jpg"},
+    {"id": 12,"nombre" : "Bolsa de Cup 2 (12mm)", "cantidad": 1, "desc": "Pocillos plásticos para tinta de 12 mm.", "precio":2500 , "tipo":"accesorio", "img": "./imag/cup.jpg"},
+    {"id": 13,"nombre" : "Apoyabrazos portátil para tatuaje", "cantidad": 1, "desc": ",Material: Metal + piel sintética, Color del artículo: negro, Tamaño del cojín: aprox. 28×19 cm", "precio": 28700 , "tipo":"equipo", "img": "./imag/apoya.jpg"},
+    {"id": 14,"nombre" : "Taburete Tattoo", "cantidad": 1, "desc": "taburete ajustable", "precio": 29800 , "tipo":"taburetes", "img": "./imag/tabu.jpg"},
+    {"id": 15,"nombre" : "Camilla", "cantidad": 1, "desc": "Material: aluminio y cuero artificial de PVC, Capacidad de carga: 550 lb (250 kg), Peso bruto: 16 kg, Peso neto: 4kg, Tamaño del producto: 186X60X62-83cm (ajustable), Tamaño de embalaje: 96X17X64cm, Densidad de espuma: 18 Espesor: 4 cm", "precio": 130000 , "tipo":"camillas", "img": "./imag/cam.jpg"},
+    {"id": 16,"nombre" : "Guantes Nitrilo Negro", "cantidad": 1, "desc": "La caja contiene 100 unidades (50 pares)", "precio": 13500 , "tipo":"Guantes", "img": "./imag/guante.jpg"}
+]

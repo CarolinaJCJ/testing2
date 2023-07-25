@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INK STORE</title>
+    <script src="https://kit.fontawesome.com/df59baf6b8.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>INK STORE</h1>
+    
+    <label for="busqueda">Buscar</label>
+    <input placeholder="search" id="busqueda" title="busqueda">
+    <button id="btnBuscar">Buscar</button>
+
+  
+    <main id="contenedor-productos">
+    </main>
+
+    <h2> <a href="https://www.instagram.com/uwu_saico/">Contacto</a> </h2>
+   
+    
+
+    <div class="shop-body">
+        {aqui iria el shop}
+    </div>
+
+    <div class="cart-items"> 
+        </div>
+
+        <div id="boton-carrito" class="cart-items" >
+            </div>
+
+            <span class="cart-item-count">0</span> 
+
+
+            <div id="carrito-contenedor"> 
+            </div>
+            <p class="precioProducto">Precio total: $<span id="precioTotal">0</span></p>
+
+            <button id="btnVaciarCarrito">Vaciar Carrito </button>
+          </div>
+
+
+    <div class="social-media">
+        <div class="container"> 
+            <a href="https://es-la.facebook.com/" class="btn" aria-label="fa-facebook" > 
+                <i class="fab fa-facebook"></i>
+            </a>
+            <a href="https://twitter.com/i/flow/login?redirect_after_login=%2F%40some-name-here" class="btn" aria-label="fa-twitter">
+                <i class="fab fa-twitter"></i>
+    
+            <a href="https://www.google.com/" class="btn" aria-label="fa-google">
+                <i class="fab fa-google"></i>
+            </a>
+            <a href="https://www.instagram.com/" class="btn" aria-label="fa-instagram">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+    </div>
+    
+    <script>
+        const btnBuscar = document.getElementById('btnBuscar');
+      
+        btnBuscar.addEventListener('click', function() {
+           const campoBusqueda = document.getElementById('busqueda');
+           const valorBusqueda = campoBusqueda.value;
+           console.log('Realizando búsqueda:', valorBusqueda);
+          });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    
+
+    <script src="app.js"></script>
+    
+</body>
+</html>
